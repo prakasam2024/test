@@ -114,6 +114,7 @@ p{
     min-width: 200px;
     margin-bottom: 50px;
     transition: transform 0.5s;
+    text-align: center;
 }
 
 .col-4 img{
@@ -204,11 +205,12 @@ transform: translateY(-10px);
     margin: 100px auto;
 }
 .col-5{
- width: 20px;
+ width: 40px;
 }
 .col-5 img{
     width: 100%;
     cursor: pointer;
+    padding: 2px;
     filter: grayscale(100%);
 }
 .col-5 img:hover{
