@@ -221,6 +221,7 @@ transform: translateY(-10px);
     color: #8a8a8a;
     font-size: 14px;
     padding: 60px 0 20px;
+    width: 100%;
 }
 .footer p{
     color: #8a8a8a;
@@ -301,6 +302,7 @@ ul{
         cursor: pointer;
 
     }
+    
 }
 @media  only screen and (max-width:600px) {
     .row{
