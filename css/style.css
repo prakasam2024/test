@@ -88,7 +88,7 @@ p{
    
 }
 .header .row{
-    margin-top: 70px;
+    margin-top: 50px;
 }
 .categories{
     margin: 70px 0;
@@ -104,7 +104,7 @@ p{
 .small-container{
     max-width: 1080px;
     margin: auto;
-    padding-left: 25px;
+    padding-left: 15px;
     padding-right: 25px;
     
 }
